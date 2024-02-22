@@ -1,0 +1,6 @@
+# client
+requests
+requests-toolbelt
+
+# server
+flask
